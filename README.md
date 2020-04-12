@@ -1,5 +1,5 @@
 # GOA-Electricity-Transaction-Architecture
-GOA Electricity Integration with CCAvenue Payement Gateway
+GOA Electricity Integration with CCAvenue Payment Gateway
 
 Above Image is the GOA Electricity Transaction Architecture
 
