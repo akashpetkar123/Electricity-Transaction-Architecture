@@ -1,9 +1,9 @@
 Company - Infibeam Avenues Ltd, Mumbai
 
-# GOA-Electricity-Transaction-Architecture
-GOA Electricity Integration with CCAvenue Payment Gateway
+# Electricity-Transaction-Architecture
+Electricity Integration with CCAvenue Payment Gateway
 
-Above Image is the GOA Electricity Transaction Architecture
+Above Image is the Electricity Transaction Architecture
 
 The Live Project is avaliable on below link:
-https://secure.ccavenue.com/jsp/GoaElectricity/billPayment.jsp
+https://secure.ccavenue.com/jsp/<***>Electricity/<****>Payment.jsp
